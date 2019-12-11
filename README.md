@@ -1,4 +1,5 @@
 # Sampah-System-CLI-by-Ahkam-Dicer
+# Tutorial masih dalam penyusunan.
 Tutorial mengunakan alat ini.
 Alat ini saya buat 3 variasi untuk beberapa system yang kemungkinan tidak cocok bisa berali ke alat 1,2,3.
 
